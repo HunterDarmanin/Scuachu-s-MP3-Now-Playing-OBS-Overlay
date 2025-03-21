@@ -1,5 +1,6 @@
 README for Scuachu's MP3 Now Playing OBS Overlay.
 
+[![Video Guide: ](https://img.youtube.com/vi/T-FQv-yiIqSPQ/maxresdefault.jpg)](https://youtu.be/T-FQv-yiIqSPQ)
 Video Guide: https://www.youtube.com/watch?v=FQv-yiIqSPQ
 
 WARNING: This app is designed to be used with hardware or software capable of writing to files. For example, an Elgato Stream Deck (with Text File Tools plugin by BarRaider). There is no built-in UI for selecting songs. An external input method is strongly advised.
