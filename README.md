@@ -2,6 +2,12 @@ README for Scuachu's MP3 Now Playing OBS Overlay.
 
 WARNING: This app is designed for Windows operating systems only.
 
+Video Guide:
+[![Video Guide](https://img.youtube.com/vi/FQv-yiIqSPQ/maxresdefault.jpg)](https://youtu.be/FQv-yiIqSPQ)
+
+1.2 Video Guide:
+[![Video Guide]([https://img.youtube.com/vi/ZaNPiL3PfnQ/maxresdefault.jpg](https://youtu.be/ZaNPiL3PfnQ)
+
 
 Formats:
 
