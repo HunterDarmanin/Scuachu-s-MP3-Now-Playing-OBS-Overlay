@@ -126,7 +126,7 @@ Brush Rebrushed:
 		Accented / extended Latin characters: À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ
 
 
-That's about it! If you have any issues or suggestions, please leave a comment on the GitHub or Itch.io page.
+That's about it! If you have any issues or suggestions, please leave a comment on the GitHub (https://github.com/HunterDarmanin/Scuachu-s-MP3-Now-Playing-OBS-Overlay) or Itch.io page (https://darmanin.itch.io/scuachus-mp3-now-playing-obs-overlay).
 
 
 https://www.youtube.com/@scuachu
